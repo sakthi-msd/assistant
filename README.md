@@ -6,7 +6,7 @@ regulations, syllabus, FAQs, academic notices, and other documents.
 
 ## 🌐 Live Website
 
-👉 [Visit AI Student Support Assistant](https://muthura267-a11y.github.io/ai-support-assistants/)
+👉 [Visit AI Student Support Assistant](https://sakthi-msd.github.io/assistant/)
 
 ## 🎯 Project Objective
 
